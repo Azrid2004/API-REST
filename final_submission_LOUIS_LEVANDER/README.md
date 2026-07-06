@@ -1,5 +1,3 @@
-# Louis Levander 
-# Series 2
 
 # Games Manager Boilerplate
 
