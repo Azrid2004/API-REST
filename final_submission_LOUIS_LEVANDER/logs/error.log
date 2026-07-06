@@ -1,0 +1,763 @@
+2026-03-31T06:18:13.172Z - The new user's username already exists
+2026-03-31T06:34:21.013Z - The new user's username already exists
+2026-03-31T06:39:54.420Z - The new user's username already exists
+2026-03-31T06:40:07.024Z - Invalid email
+2026-03-31T06:40:22.222Z - Invalid email
+2026-03-31T06:40:23.442Z - Invalid email
+2026-03-31T06:40:34.418Z - The new user's username already exists
+2026-03-31T06:40:58.637Z - User not found
+2026-03-31T06:41:04.081Z - User not found
+2026-03-31T06:41:09.471Z - User not found
+2026-03-31T06:41:26.987Z - User not found
+2026-03-31T06:41:45.428Z - User not found
+2026-03-31T06:41:53.753Z - User not found
+2026-03-31T06:41:54.877Z - User not found
+2026-03-31T06:42:00.587Z - User not found
+2026-03-31T06:42:01.119Z - User not found
+2026-03-31T06:42:59.565Z - The new user's username already exists
+2026-03-31T07:10:45.829Z - Bad request: invalid id
+2026-03-31T07:11:01.890Z - Bad request: invalid id
+2026-03-31T07:11:02.647Z - Bad request: invalid id
+2026-03-31T07:11:03.303Z - Bad request: invalid id
+2026-03-31T07:11:20.063Z - Bad request: invalid id
+2026-03-31T07:11:30.724Z - User not found
+2026-03-31T07:16:05.695Z - The new user's username already exists
+2026-03-31T07:16:15.877Z - Invalid email
+2026-03-31T07:16:17.883Z - Invalid email
+2026-03-31T07:16:28.577Z - Bad request: invalid id
+2026-03-31T07:16:30.169Z - Bad request: invalid id
+2026-03-31T08:07:36.202Z - The new user's username already exists
+2026-03-31T08:15:47.927Z - User not found
+2026-03-31T08:15:59.218Z - The new user's username already exists
+2026-03-31T08:18:54.636Z - User not found
+2026-03-31T08:20:01.021Z - User not found
+2026-03-31T10:08:51.226Z - The new user's username already exists
+2026-03-31T10:09:11.539Z - User not found
+2026-03-31T10:10:26.826Z - User not found
+2026-03-31T10:10:35.125Z - User not found
+2026-03-31T10:11:08.146Z - Bad request: invalid id
+2026-03-31T10:11:08.148Z - User not found
+2026-03-31T10:11:09.814Z - Bad request: invalid id
+2026-03-31T10:11:09.816Z - User not found
+2026-03-31T10:11:15.513Z - User not found
+2026-03-31T10:12:18.094Z - Bad request: invalid id
+2026-03-31T10:12:18.098Z - User not found
+2026-03-31T10:12:25.240Z - User not found
+2026-03-31T10:12:36.963Z - User not found
+2026-03-31T10:12:43.201Z - User not found
+2026-03-31T10:13:22.821Z - Forbidden access
+2026-03-31T10:13:31.564Z - Forbidden access
+2026-03-31T10:13:42.254Z - User not found
+2026-03-31T10:15:32.775Z - User not found
+2026-03-31T10:15:42.910Z - Forbidden access
+2026-03-31T10:16:00.323Z - User not found
+2026-03-31T10:20:05.123Z - The updated user's username already exists
+2026-03-31T10:20:23.477Z - User not found
+2026-03-31T10:20:30.381Z - The updated user's username already exists
+2026-03-31T10:20:58.735Z - The updated user's email already exists
+2026-03-31T10:23:24.154Z - The updated user's username already exists
+2026-03-31T10:26:25.770Z - Bad request: invalid id
+2026-03-31T10:26:25.775Z - The updated user's username already exists
+2026-03-31T10:27:00.382Z - Bad request: invalid id
+2026-03-31T10:27:00.384Z - The updated user's username already exists
+2026-03-31T10:27:37.245Z - Bad request: invalid id
+2026-03-31T10:27:43.481Z - The updated user's username already exists
+2026-03-31T10:27:54.909Z - The updated user's email already exists
+2026-03-31T10:29:11.237Z - Bad request: invalid id
+2026-03-31T10:29:22.164Z - Forbidden access
+2026-03-31T11:48:06.235Z - Forbidden access
+2026-03-31T11:48:19.343Z - Forbidden access
+2026-03-31T11:48:27.952Z - Bad request: invalid id
+2026-03-31T11:51:18.893Z - User not found
+2026-03-31T11:51:58.084Z - Forbidden access
+2026-03-31T15:36:37.673Z - The new user's username already exists
+2026-03-31T15:40:19.078Z - Forbidden access
+2026-03-31T15:40:27.733Z - Bad request: invalid id
+2026-03-31T15:40:50.535Z - User not found
+2026-03-31T15:40:54.821Z - User not found
+2026-03-31T15:40:55.910Z - User not found
+2026-03-31T15:41:16.319Z - User not found
+2026-03-31T15:41:48.800Z - Forbidden access
+2026-03-31T15:42:46.647Z - User not found
+2026-03-31T15:42:56.457Z - User not found
+2026-03-31T15:42:57.634Z - User not found
+2026-03-31T15:43:04.870Z - Attempt to delete an admin account
+2026-03-31T18:26:57.793Z - User not found
+2026-03-31T18:27:38.909Z - Only users currently holding the player role can be promoted
+2026-03-31T18:28:04.186Z - Only users currently holding the player role can be promoted
+2026-03-31T18:28:07.372Z - Bad request: invalid role
+2026-03-31T18:28:16.399Z - Bad request: invalid id
+2026-03-31T18:28:47.015Z - Only users currently holding the player role can be promoted
+2026-03-31T18:29:23.310Z - User not found
+2026-03-31T18:29:28.982Z - Only users currently holding the player role can be promoted
+2026-04-01T08:49:52.019Z - User not found
+2026-04-01T08:52:15.890Z - User not found
+2026-04-01T09:02:06.488Z - User not found
+2026-04-01T09:16:37.450Z - User not found
+2026-04-01T09:17:54.120Z - Only users currently holding the player role can be promoted
+2026-04-01T09:18:28.538Z - User not found
+2026-04-01T09:18:36.311Z - Forbidden access
+2026-04-01T09:19:02.798Z - The new user's username already exists
+2026-04-01T09:19:10.805Z - User not found
+2026-04-01T09:19:20.726Z - User not found
+2026-04-01T09:19:23.926Z - User not found
+2026-04-01T09:21:06.268Z - Only users currently holding the player role can be promoted
+2026-04-01T09:21:14.179Z - User not found
+2026-04-05T09:00:02.012Z - Bad request, invalid or missing fields
+2026-04-05T09:01:32.813Z - Bad request, invalid or missing fields
+2026-04-05T09:02:46.048Z - Bad request, invalid or missing fields
+2026-04-05T09:17:41.510Z - The new team's name already exists
+2026-04-05T09:17:59.742Z - The new team's name already exists
+2026-04-05T09:18:00.617Z - The new team's name already exists
+2026-04-05T09:18:00.914Z - The new team's name already exists
+2026-04-05T09:18:01.264Z - The new team's name already exists
+2026-04-05T09:18:01.516Z - The new team's name already exists
+2026-04-05T09:18:01.789Z - The new team's name already exists
+2026-04-05T13:20:04.661Z - User not found
+2026-04-05T13:22:08.330Z - User not found
+2026-04-05T13:22:36.033Z - User not found
+2026-04-05T13:22:46.493Z - User not found
+2026-04-05T13:25:10.124Z - Only users currently holding the player role can be promoted
+2026-04-05T13:39:45.465Z - Bad request: invalid id
+2026-04-05T13:40:03.985Z - Bad request: invalid id
+2026-04-05T13:40:37.388Z - Bad request: invalid id
+2026-04-05T13:40:40.499Z - Bad request: invalid id
+2026-04-05T13:40:49.134Z - Bad request: invalid id
+2026-04-05T13:40:50.192Z - Bad request: invalid id
+2026-04-05T13:40:51.632Z - Bad request: invalid id
+2026-04-05T13:41:22.547Z - Team not found
+2026-04-05T13:41:25.670Z - Bad request: invalid id
+2026-04-05T14:08:44.142Z - Invalid email
+2026-04-05T14:09:20.100Z - The updated user's email already exists
+2026-04-05T16:53:13.745Z - The updated team has invalid ids
+2026-04-05T16:53:47.445Z - The updated team has invalid ids
+2026-04-05T16:59:22.372Z - The trainer of the updated team is invalid
+2026-04-05T16:59:31.678Z - The trainer of the updated team is invalid
+2026-04-05T16:59:44.631Z - The trainer of the updated team is invalid
+2026-04-05T16:59:48.492Z - The updated team has duplicate ids
+2026-04-05T17:03:19.051Z - The updated team has several duplicate players, or the trainer is also a player
+2026-04-05T17:03:33.380Z - The trainer of the updated team is invalid
+2026-04-05T17:03:50.522Z - The trainer of the updated team is invalid
+2026-04-05T17:03:51.594Z - The trainer of the updated team is invalid
+2026-04-05T17:04:01.152Z - The trainer of the updated team is invalid
+2026-04-05T17:04:36.292Z - The trainer of the updated team is invalid
+2026-04-05T17:05:05.090Z - The trainer of the updated team is invalid
+2026-04-05T17:07:02.447Z - The trainer of the updated team is invalid
+2026-04-05T17:07:09.245Z - The trainer of the updated team is invalid
+2026-04-05T17:08:04.203Z - The trainer of the updated team is invalid
+2026-04-05T17:08:05.129Z - The trainer of the updated team is invalid
+2026-04-05T17:08:05.373Z - The trainer of the updated team is invalid
+2026-04-05T17:08:12.121Z - The updated team has several duplicate players, or the trainer is also a player
+2026-04-05T17:08:16.531Z - The trainer of the updated team is invalid
+2026-04-05T17:09:29.698Z - The trainer of the updated team is invalid
+2026-04-05T17:09:31.560Z - The trainer of the updated team is invalid
+2026-04-05T17:10:05.995Z - The trainer of the updated team is invalid
+2026-04-05T17:11:56.355Z - The updated team has several duplicate players, or the trainer is also a player
+2026-04-05T17:13:31.890Z - The trainer of the updated team is invalid
+2026-04-05T17:13:34.772Z - The trainer of the updated team is invalid
+2026-04-05T17:13:35.525Z - The trainer of the updated team is invalid
+2026-04-05T17:13:48.891Z - The trainer of the updated team is invalid
+2026-04-05T17:14:01.056Z - The trainer of the updated team is invalid
+2026-04-05T17:14:02.241Z - The trainer of the updated team is invalid
+2026-04-05T17:15:33.110Z - The trainer of the updated team is invalid
+2026-04-05T17:15:41.009Z - The updated team has several duplicate players, or the trainer is also a player
+2026-04-05T17:25:40.242Z - The updated team has several duplicate players, or the trainer is also a player
+2026-04-05T17:29:21.128Z - The updated team cannot have several duplicate players and the trainer cannot be among the players
+2026-04-05T17:29:51.600Z - The updated team cannot have several duplicate players and the trainer cannot be among the players
+2026-04-05T17:40:24.508Z - The trainer cannot be among the players
+2026-04-05T17:40:53.941Z - The trainer of the updated team must exist and have trainer role
+2026-04-05T17:41:05.831Z - The trainer of the updated team must exist and have trainer role
+2026-04-05T17:41:14.540Z - The trainer cannot be among the players
+2026-04-05T17:41:28.740Z - The updated team cannot have several duplicate players
+2026-04-05T17:42:33.449Z - Bad request: req.body does not match TeamDTO model
+2026-04-05T17:42:51.939Z - The updated team cannot have several duplicate players
+2026-04-05T17:43:25.113Z - Bad request: req.body does not match TeamDTO model
+2026-04-05T17:43:28.399Z - The updated team cannot have several duplicate players
+2026-04-05T17:43:37.731Z - The updated team cannot have several duplicate players
+2026-04-05T17:43:43.606Z - The updated team's players must exist and be active
+2026-04-05T17:44:07.536Z - The updated team's players must exist and be active
+2026-04-05T17:44:10.362Z - The updated team's players must exist and be active
+2026-04-05T17:44:24.650Z - Bad request: id from body does not match path id
+2026-04-05T18:20:48.581Z - User is already in the team
+2026-04-05T18:21:56.371Z - User is already in the team
+2026-04-05T18:22:02.777Z - Team not found
+2026-04-05T18:22:38.233Z - Team not found
+2026-04-05T18:22:38.812Z - Team not found
+2026-04-05T18:22:48.926Z - Team not found
+2026-04-05T18:22:52.849Z - User is already in the team
+2026-04-05T18:23:20.528Z - User is already in the team
+2026-04-05T20:17:48.284Z - User not in team
+2026-04-05T20:18:12.192Z - User not in team
+2026-04-05T20:18:33.655Z - User not in team
+2026-04-05T20:18:37.062Z - User not in team
+2026-04-05T20:24:14.903Z - User not in team
+2026-04-05T20:24:59.980Z - User not in team
+2026-04-06T08:26:11.777Z - Bad request, invalid or missing fields
+2026-04-06T08:38:12.412Z - Field not found
+2026-04-06T08:38:15.669Z - Bad request: invalid id
+2026-04-06T11:29:21.007Z - Req.body does not match UserDTO model
+2026-04-06T11:29:46.704Z - Req.body does not match FieldDTO model
+2026-04-06T11:30:00.449Z - Bad request: body/path ID mismatch
+2026-04-06T11:30:07.219Z - User not found
+2026-04-06T11:30:11.047Z - Bad request: invalid id
+2026-04-06T13:12:02.173Z - User not found
+2026-04-07T07:40:32.656Z - The new user's username already exists
+2026-04-07T07:40:42.112Z - Invalid email
+2026-04-07T07:40:55.411Z - The new user's username already exists
+2026-04-07T07:41:01.276Z - Invalid or missing user fields
+2026-04-07T07:41:11.504Z - The new user's username already exists
+2026-04-07T07:41:57.521Z - User not found
+2026-04-07T07:42:36.124Z - User not found
+2026-04-07T07:42:39.974Z - User not found
+2026-04-07T07:42:40.997Z - User not found
+2026-04-07T07:42:42.001Z - User not found
+2026-04-07T07:43:48.564Z - User not found
+2026-04-07T07:45:02.969Z - User not updated
+2026-04-07T07:45:37.637Z - User not found
+2026-04-07T07:45:43.891Z - Body/path ID mismatch
+2026-04-07T07:45:50.203Z - The updated user's username already exists
+2026-04-07T07:46:00.686Z - The updated user's email already exists
+2026-04-07T07:46:05.286Z - Invalid email
+2026-04-07T07:46:16.059Z - The updated user's username already exists
+2026-04-07T07:46:28.446Z - Body/path ID mismatch
+2026-04-07T07:46:33.225Z - The updated user's username already exists
+2026-04-07T07:46:42.006Z - Forbidden access
+2026-04-07T07:47:28.520Z - Forbidden access
+2026-04-07T07:47:37.844Z - User not found
+2026-04-07T07:47:43.128Z - User not found
+2026-04-07T07:47:44.681Z - User not found
+2026-04-07T07:47:45.776Z - User not found
+2026-04-07T07:47:51.904Z - User not found
+2026-04-07T07:48:48.501Z - User not found
+2026-04-07T07:48:49.640Z - User not found
+2026-04-07T07:48:55.400Z - User is already active
+2026-04-07T07:49:03.885Z - User not found
+2026-04-07T07:49:57.327Z - User not found
+2026-04-07T07:49:58.578Z - User not found
+2026-04-07T07:50:20.831Z - User not found
+2026-04-07T07:50:34.039Z - Forbidden access
+2026-04-07T07:52:25.115Z - Invalid ID
+2026-04-07T07:53:13.270Z - User not found
+2026-04-07T07:54:00.406Z - User not found
+2026-04-07T07:54:15.773Z - User is already inactive
+2026-04-07T07:54:24.423Z - Forbidden access
+2026-04-07T07:54:36.792Z - Forbidden access
+2026-04-07T07:54:39.140Z - Forbidden access
+2026-04-07T07:54:39.765Z - Forbidden access
+2026-04-07T07:54:43.796Z - User is already inactive
+2026-04-07T07:55:13.139Z - Only users currently holding the player role can be promoted
+2026-04-07T07:55:38.545Z - User is already active
+2026-04-07T07:57:57.682Z - The new team's name already exists
+2026-04-07T08:00:50.935Z - Team not found
+2026-04-07T08:01:09.467Z - Invalid team ID
+2026-04-07T08:01:33.566Z - Invalid team ID
+2026-04-07T08:01:39.760Z - Body/path ID mismatch
+2026-04-07T08:02:32.554Z - User is already in the team
+2026-04-07T08:02:59.976Z - User not in team
+2026-04-07T08:03:17.373Z - User not in team
+2026-04-07T08:03:18.502Z - User not in team
+2026-04-07T08:03:19.614Z - User not in team
+2026-04-07T08:04:07.796Z - User is already in the team
+2026-04-07T08:04:16.329Z - User is already in the team
+2026-04-07T08:04:18.220Z - User not in team
+2026-04-07T08:12:27.987Z - Team not found
+2026-04-07T08:12:31.493Z - Invalid team ID
+2026-04-09T14:09:35.911Z - Home team and away team cannot be the same
+2026-04-09T14:09:59.680Z - Away team not found
+2026-04-09T14:10:04.073Z - Away team not found
+2026-04-09T14:10:13.537Z - Away team not found
+2026-04-09T14:10:14.383Z - Away team not found
+2026-04-09T14:10:15.597Z - Away team not found
+2026-04-09T14:10:17.298Z - Away team not found
+2026-04-09T14:10:38.641Z - Away team not found
+2026-04-09T14:10:39.243Z - Away team not found
+2026-04-09T14:10:42.938Z - Away team not found
+2026-04-09T14:10:47.353Z - Away team not found
+2026-04-09T14:10:47.966Z - Away team not found
+2026-04-09T14:11:27.151Z - Home team not found
+2026-04-09T14:11:32.911Z - Away/home team sport mismatch
+2026-04-09T14:11:49.286Z - Home team and away team cannot be the same
+2026-04-09T14:14:19.110Z - Field not found
+2026-04-09T15:19:27.683Z - The date must not be earlier than the current time
+2026-04-09T15:30:24.802Z - Game not found
+2026-04-09T15:30:29.354Z - Invalid team ID
+2026-04-09T15:30:45.210Z - Invalid game ID
+2026-04-09T16:15:18.302Z - Invalid game ID
+2026-04-09T16:15:27.957Z - Req.body does not match GameDTO model
+2026-04-09T16:16:29.847Z - Body/path ID mismatch
+2026-04-09T16:17:24.142Z - Req.body does not match GameDTO model
+2026-04-09T16:21:50.891Z - Home team and away team cannot be the same
+2026-04-09T16:21:57.531Z - Away/home team sport mismatch
+2026-04-09T16:22:01.746Z - Away/home team sport mismatch
+2026-04-09T16:22:05.821Z - Away/home team sport mismatch
+2026-04-09T16:22:08.971Z - Home team not found
+2026-04-09T16:22:15.836Z - Away team not found
+2026-04-09T16:22:23.595Z - Away team not found
+2026-04-09T16:22:28.172Z - Away/home team sport mismatch
+2026-04-09T16:23:01.076Z - Home team and away team cannot be the same
+2026-04-09T16:39:10.996Z - The new referee does not have the referee role
+2026-04-09T16:39:17.051Z - The new referee does not have the referee role
+2026-04-09T16:39:20.312Z - New referee not found
+2026-04-09T16:39:33.495Z - The new referee does not have the referee role
+2026-04-09T16:39:37.526Z - The new referee does not have the referee role
+2026-04-09T16:39:40.804Z - The new referee does not have the referee role
+2026-04-09T16:41:48.250Z - The new referee does not have the referee role
+2026-04-09T16:41:49.038Z - The new referee does not have the referee role
+2026-04-09T16:41:49.743Z - The new referee does not have the referee role
+2026-04-09T16:41:50.522Z - The new referee does not have the referee role
+2026-04-09T16:41:54.003Z - The new referee does not have the referee role
+2026-04-09T16:41:55.538Z - The new referee does not have the referee role
+2026-04-09T16:42:25.492Z - The new referee does not have the referee role
+2026-04-09T16:43:44.407Z - The new referee does not have the referee role
+2026-04-09T16:43:56.517Z - The new referee does not have the referee role
+2026-04-09T16:44:06.277Z - New referee not found
+2026-04-09T16:44:16.760Z - Home team and away team cannot be the same
+2026-04-09T16:44:21.168Z - Away/home team sport mismatch
+2026-04-09T16:48:40.820Z - The date must not be earlier than the current time
+2026-04-09T16:49:14.766Z - Home team and away team cannot be the same
+2026-04-09T16:49:19.061Z - Away/home team sport mismatch
+2026-04-09T16:49:22.637Z - new home team not found
+2026-04-09T16:49:29.207Z - New away team not found
+2026-04-09T16:49:39.896Z - Body/path ID mismatch
+2026-04-09T16:49:46.637Z - Body/path ID mismatch
+2026-04-09T16:49:50.451Z - Game not found
+2026-04-09T16:50:11.009Z - The new referee does not have the referee role
+2026-04-09T16:50:17.892Z - New referee not found
+2026-04-09T16:50:24.404Z - The new referee does not have the referee role
+2026-04-09T16:53:01.294Z - Field not found
+2026-04-09T16:53:47.933Z - New field not found
+2026-04-09T16:56:46.953Z - The new referee does not have the referee role
+2026-04-09T16:57:09.443Z - Away/home team sport mismatch
+2026-04-09T16:59:06.078Z - New field not found
+2026-04-09T17:00:00.699Z - Game not updated
+2026-04-09T17:00:10.552Z - Game not updated
+2026-04-09T17:00:12.244Z - Game not updated
+2026-04-09T17:02:44.813Z - Cancelled/finished games can not be updated
+2026-04-09T17:03:48.399Z - Cancelled/finished games cannot be updated
+2026-04-09T17:03:58.450Z - Cancelled/finished games cannot be updated
+2026-04-09T17:23:25.733Z - Game not found
+2026-04-09T17:23:33.126Z - Invalid ID
+2026-04-09T18:19:33.215Z - Game not found
+2026-04-09T18:19:46.859Z - Game not in started status
+2026-04-09T18:20:14.678Z - Game not in started status
+2026-04-09T18:24:35.468Z - Invalid score values
+2026-04-09T18:24:44.706Z - Invalid score values
+2026-04-09T19:26:12.745Z - The new referee does not have the referee role
+2026-04-09T19:26:20.331Z - Away/home team sport mismatch
+2026-04-09T19:32:30.385Z - Game not updated
+2026-04-09T19:34:33.726Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:34:57.886Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:35:09.063Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:35:28.291Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:35:42.793Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:36:09.389Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:36:10.342Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:36:19.610Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:36:22.248Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:36:33.458Z - Disallowed status transition or missing prerequisites for starting
+2026-04-09T19:37:01.707Z - Disallowed status transition or missing prerequisites for starting
+2026-04-11T10:15:51.962Z - Invalid username or password
+2026-04-11T10:43:10.348Z - Unauthorized
+2026-04-11T13:59:53.395Z - Invalid token
+2026-04-11T13:59:58.710Z - Invalid token
+2026-04-11T14:00:02.125Z - The new user's username already exists
+2026-04-11T14:00:06.295Z - The new user's username already exists
+2026-04-11T14:00:09.757Z - Invalid token
+2026-04-11T14:00:35.991Z - Invalid token
+2026-04-11T14:00:47.684Z - Missing token
+2026-04-11T14:00:49.170Z - Missing token
+2026-04-11T14:00:50.475Z - Missing token
+2026-04-11T14:00:53.405Z - Invalid token
+2026-04-11T14:01:18.570Z - Invalid token
+2026-04-11T14:01:22.261Z - Missing token
+2026-04-11T14:01:24.261Z - Missing token
+2026-04-11T14:01:26.137Z - Missing token
+2026-04-11T14:02:05.861Z - Invalid token
+2026-04-11T14:02:07.659Z - Invalid token
+2026-04-11T14:02:08.935Z - Invalid token
+2026-04-11T14:02:10.130Z - Invalid token
+2026-04-11T14:02:11.719Z - Missing token
+2026-04-11T14:02:20.084Z - Invalid token
+2026-04-11T14:03:09.213Z - Invalid token
+2026-04-11T14:03:10.408Z - Invalid token
+2026-04-11T14:03:11.828Z - Invalid token
+2026-04-11T14:03:13.941Z - Invalid token
+2026-04-11T14:03:14.955Z - Invalid token
+2026-04-11T14:07:15.523Z - Invalid username or password
+2026-04-11T14:07:23.692Z - Invalid token
+2026-04-11T14:07:24.712Z - Invalid token
+2026-04-11T14:07:25.911Z - The new user's username already exists
+2026-04-11T14:07:27.527Z - Invalid token
+2026-04-11T14:07:31.691Z - Invalid token
+2026-04-11T14:07:32.980Z - Invalid token
+2026-04-11T14:08:30.927Z - User not found
+2026-04-11T14:08:32.671Z - User not found
+2026-04-11T14:09:08.764Z - Missing or invalid token
+2026-04-11T14:09:19.941Z - Invalid username or password
+2026-04-11T14:09:21.430Z - Missing or invalid token
+2026-04-11T14:12:23.037Z - The new user's username already exists
+2026-04-11T14:12:34.337Z - User not found
+2026-04-11T14:17:33.451Z - Unauthorized
+2026-04-11T14:17:35.428Z - Unauthorized
+2026-04-11T14:18:29.584Z - Invalid ID
+2026-04-11T14:18:34.016Z - User not found
+2026-04-11T14:19:06.889Z - Forbidden access
+2026-04-11T14:19:19.033Z - Body/path ID mismatch
+2026-04-11T14:20:01.918Z - Missing or invalid token
+2026-04-11T14:20:18.039Z - Missing or invalid token
+2026-04-11T14:20:18.944Z - Missing or invalid token
+2026-04-11T14:20:21.945Z - Invalid username or password
+2026-04-11T14:20:51.529Z - Forbidden access
+2026-04-11T14:21:00.810Z - Forbidden access
+2026-04-11T14:21:55.958Z - Attempt to delete an admin account
+2026-04-11T14:22:26.029Z - Forbidden access
+2026-04-11T14:22:39.497Z - User is already inactive
+2026-04-11T14:22:47.943Z - Forbidden access
+2026-04-11T14:22:59.080Z - User is already inactive
+2026-04-11T14:23:47.926Z - Unauthorized
+2026-04-11T14:23:51.312Z - Unauthorized
+2026-04-11T14:23:59.383Z - Only users currently holding the player role can be promoted
+2026-04-11T14:24:07.865Z - User is already active
+2026-04-11T14:26:09.122Z - User not found
+2026-04-11T14:26:19.927Z - User not found
+2026-04-11T14:26:21.567Z - User is already active
+2026-04-11T16:30:29.059Z - Invalid email
+2026-04-11T16:30:42.958Z - Invalid email
+2026-04-11T16:30:52.061Z - Invalid or missing user fields
+2026-04-11T16:30:56.569Z - The new user's username already exists
+2026-04-11T16:31:05.987Z - The new user's email already exists
+2026-04-11T16:31:14.086Z - Missing or invalid token
+2026-04-11T16:32:04.362Z - Missing or invalid token
+2026-04-11T16:36:05.535Z - Missing or invalid token
+2026-04-11T16:36:49.451Z - Missing or invalid token
+2026-04-11T16:37:17.707Z - Missing or invalid token
+2026-04-11T16:37:20.864Z - Missing or invalid token
+2026-04-11T16:37:23.356Z - Missing or invalid token
+2026-04-11T16:37:28.528Z - Body/path ID mismatch
+2026-04-11T16:37:35.674Z - User not found
+2026-04-11T16:37:39.713Z - Forbidden access
+2026-04-11T16:38:25.879Z - User is already inactive
+2026-04-11T16:43:42.399Z - Forbidden access
+2026-04-11T16:43:52.552Z - Forbidden access
+2026-04-11T16:44:04.922Z - Missing or invalid token
+2026-04-11T16:44:08.690Z - Forbidden access
+2026-04-11T16:45:31.017Z - User is already inactive
+2026-04-11T16:47:26.661Z - User is already inactive
+2026-04-11T16:50:47.998Z - Forbidden access
+2026-04-11T16:50:56.412Z - Forbidden access
+2026-04-11T16:51:10.669Z - Missing or invalid token
+2026-04-11T16:52:03.754Z - Missing or invalid token
+2026-04-11T16:53:00.632Z - User is already inactive
+2026-04-11T16:53:03.320Z - Attempt to delete an admin account
+2026-04-11T16:53:12.349Z - User is not a trainer or an admin
+2026-04-11T16:53:20.160Z - User is not a trainer or an admin
+2026-04-11T16:53:36.937Z - Only users currently holding the player role can be promoted
+2026-04-11T16:53:43.831Z - Only users currently holding the player role can be promoted
+2026-04-11T16:54:02.685Z - User is not an admin
+2026-04-11T16:54:15.878Z - Invalid role
+2026-04-11T16:54:26.629Z - User is already active
+2026-04-11T16:54:28.535Z - User is not an admin
+2026-04-11T16:54:31.806Z - User not found
+2026-04-11T18:39:48.144Z - Invalid username or password
+2026-04-11T18:39:50.055Z - Invalid username or password
+2026-04-13T09:11:36.016Z - Missing or invalid token
+2026-04-13T09:13:41.589Z - Missing or invalid token
+2026-04-13T09:13:42.233Z - Missing or invalid token
+2026-04-13T09:13:42.589Z - Missing or invalid token
+2026-04-13T09:13:43.616Z - Missing or invalid token
+2026-04-13T09:13:49.434Z - Missing or invalid token
+2026-04-13T09:14:00.853Z - Missing or invalid token
+2026-04-13T09:24:07.241Z - Missing or invalid token
+2026-04-13T09:24:27.994Z - User is not a trainer or an admin
+2026-04-13T09:24:36.951Z - Invalid ID
+2026-04-13T09:24:48.882Z - User is not a trainer or an admin
+2026-04-13T09:24:57.546Z - User is not a trainer or an admin
+2026-04-13T09:24:59.973Z - Only users currently holding the player role can be promoted
+2026-04-13T09:25:05.321Z - User is not an admin
+2026-04-13T09:25:07.182Z - Invalid role
+2026-04-13T09:25:18.242Z - Invalid role
+2026-04-13T09:26:01.167Z - Invalid username or password
+2026-04-13T10:12:19.744Z - Missing or invalid token
+2026-04-13T10:15:17.361Z - Missing or invalid token
+2026-04-13T12:15:11.010Z - Missing token
+2026-04-13T12:15:14.646Z - Missing or invalid token
+2026-04-13T12:15:19.824Z - Missing token
+2026-04-13T12:15:21.808Z - Missing or invalid token
+2026-04-13T12:15:22.992Z - Missing or invalid token
+2026-04-13T13:13:34.981Z - Missing or invalid token
+2026-04-13T13:13:35.712Z - Missing or invalid token
+2026-04-13T13:13:51.015Z - Missing or invalid token
+2026-04-13T13:14:06.153Z - Missing token
+2026-04-13T13:14:17.379Z - User is already inactive
+2026-04-13T13:14:31.807Z - Missing token
+2026-04-13T13:14:36.148Z - Attempt to delete an admin account
+2026-04-13T13:14:53.109Z - User is not a trainer or an admin
+2026-04-13T13:16:21.062Z - Missing token
+2026-04-13T13:16:36.360Z - Missing token
+2026-04-13T13:16:38.205Z - Missing token
+2026-04-13T13:16:40.866Z - Body/path ID mismatch
+2026-04-13T13:16:43.415Z - User not found
+2026-04-13T13:16:45.740Z - Forbidden access
+2026-04-13T13:17:07.166Z - Forbidden access
+2026-04-13T13:18:11.514Z - Forbidden access
+2026-04-13T13:19:42.847Z - User is already inactive
+2026-04-14T07:55:01.471Z - Missing or invalid token
+2026-04-14T07:55:05.209Z - Missing or invalid token
+2026-04-14T07:55:55.919Z - Invalid username or password
+2026-04-14T07:56:05.618Z - Invalid username or password
+2026-04-14T07:57:28.837Z - Invalid username or password
+2026-04-14T07:57:30.696Z - Invalid username or password
+2026-04-14T07:57:32.740Z - Invalid username or password
+2026-04-14T07:57:36.481Z - Invalid username or password
+2026-04-14T07:57:42.536Z - Invalid username or password
+2026-04-14T07:58:33.834Z - Invalid username or password
+2026-04-14T07:58:35.231Z - Invalid username or password
+2026-04-14T07:58:39.278Z - Invalid username or password
+2026-04-14T07:58:56.894Z - Invalid username or password
+2026-04-14T07:59:24.500Z - Invalid username or password
+2026-04-14T07:59:27.452Z - Invalid username or password
+2026-04-14T08:01:38.707Z - User is not an admin
+2026-04-14T08:01:52.988Z - Invalid or missing field fields
+2026-04-14T08:02:19.839Z - User is not an admin
+2026-04-14T08:02:38.189Z - Req.body does not match FieldDTO model
+2026-04-14T08:04:23.528Z - User is not a trainer
+2026-04-14T08:04:28.563Z - User is not a trainer
+2026-04-14T09:04:38.883Z - Missing or invalid token
+2026-04-14T09:08:29.043Z - User is not a trainer
+2026-04-14T09:42:10.329Z - The field is already booked
+2026-04-14T09:42:14.556Z - The field is already booked
+2026-04-14T09:42:15.455Z - The field is already booked
+2026-04-14T09:42:26.185Z - The field is already booked
+2026-04-14T09:43:02.069Z - The field is already booked
+2026-04-14T09:43:07.019Z - The field is already booked
+2026-04-14T09:44:10.681Z - The field is already booked
+2026-04-14T09:44:13.975Z - The field is already booked
+2026-04-14T09:45:12.028Z - The field is already booked
+2026-04-14T09:45:26.124Z - User is not an admin
+2026-04-14T09:45:39.647Z - User is not a referee, a trainer or an admin
+2026-04-14T09:46:12.811Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:46:23.709Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:46:25.197Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:46:27.012Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:47:26.254Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:48:08.407Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:53:46.300Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:53:47.644Z - Game not in started status
+2026-04-14T09:53:50.271Z - Game not in started status
+2026-04-14T09:53:55.835Z - Game not in started status
+2026-04-14T09:53:58.729Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:54:03.082Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:54:03.829Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:54:04.365Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:54:11.813Z - Game not in started status
+2026-04-14T09:54:14.453Z - Game not in started status
+2026-04-14T09:55:25.337Z - Game not in started status
+2026-04-14T09:55:27.373Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:55:35.092Z - Disallowed status transition or missing prerequisites for starting
+2026-04-14T09:59:39.991Z - User not in team
+2026-04-14T10:01:04.097Z - User is not in the team
+2026-04-14T10:01:06.921Z - User is already in the team
+2026-04-14T10:01:32.459Z - Invalid or missing team fields
+2026-04-14T10:01:36.211Z - Invalid or missing team fields
+2026-04-14T10:01:46.354Z - Invalid or missing team fields
+2026-04-14T10:03:14.308Z - Req.body does not match TeamDTO model
+2026-04-14T10:08:17.677Z - User is not a trainer
+2026-04-14T10:08:27.361Z - User is not a trainer
+2026-04-20T12:35:14.823Z - User is not a trainer
+2026-04-20T13:02:14.018Z - The field is already booked
+2026-04-20T13:06:59.205Z - User is not a referee, a trainer or an admin
+2026-04-20T13:07:34.925Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:07:55.359Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:19.823Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:30.954Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:55.303Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:56.253Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:56.419Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:56.579Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:56.747Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:56.888Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:08:57.028Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:10:00.476Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:12:18.260Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:23:02.969Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:23:13.939Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:27:22.603Z - The field is already booked
+2026-04-20T13:27:30.904Z - The field is already booked
+2026-04-20T13:28:00.182Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:28:22.321Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:29:34.112Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:30:51.605Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:30:53.128Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:30:53.394Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:30:53.602Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:30:59.487Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:31:00.358Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:31:00.631Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T13:31:00.803Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T14:58:03.347Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T14:58:04.314Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T14:58:41.355Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T14:58:42.513Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T14:58:46.132Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:01:13.471Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:01:15.172Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:02:43.952Z - Missing or invalid token
+2026-04-20T15:03:14.317Z - The field is already booked
+2026-04-20T15:04:24.894Z - The field is already booked
+2026-04-20T15:04:28.638Z - The field is already booked
+2026-04-20T15:04:33.301Z - The field is already booked
+2026-04-20T15:04:42.695Z - User is not an admin
+2026-04-20T15:04:44.585Z - User is not a referee, a trainer or an admin
+2026-04-20T15:04:48.020Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:04:56.396Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:05:27.171Z - User is not a trainer
+2026-04-20T15:05:41.091Z - The field is already booked
+2026-04-20T15:05:43.109Z - User is not an admin
+2026-04-20T15:05:44.771Z - User is not an admin
+2026-04-20T15:05:50.762Z - User is not a referee, a trainer or an admin
+2026-04-20T15:06:05.381Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:06:14.054Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:06:15.333Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:07:41.895Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:07:42.654Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:07:42.807Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:06.179Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:08.369Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:08.573Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:08.765Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:08.948Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:09.146Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:09.341Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:45.337Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:46.053Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:46.269Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:46.465Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:46.675Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:46.865Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:47.075Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:47.286Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:09:48.190Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:10:29.535Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:10:30.300Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:10:30.474Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:10:30.648Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:10:30.833Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:11:15.878Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:11:54.833Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:11:55.636Z - Disallowed status transition or missing prerequisites for starting
+2026-04-20T15:12:31.754Z - Game not in started status
+2026-04-20T15:12:33.403Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T06:48:26.187Z - Invalid username or password
+2026-04-21T06:49:06.123Z - Invalid username or password
+2026-04-21T06:49:07.039Z - Invalid username or password
+2026-04-21T06:49:08.432Z - Invalid username or password
+2026-04-21T06:49:15.169Z - Invalid username or password
+2026-04-21T06:49:50.915Z - Invalid username or password
+2026-04-21T06:49:51.571Z - Invalid username or password
+2026-04-21T06:49:51.781Z - Invalid username or password
+2026-04-21T06:55:05.977Z - Invalid credentials
+2026-04-21T06:55:09.379Z - Invalid credentials
+2026-04-21T06:55:14.567Z - Missing or empty username / password
+2026-04-21T06:55:18.276Z - Missing or empty username / password
+2026-04-21T06:55:21.201Z - Missing or empty username / password
+2026-04-21T06:55:25.921Z - Invalid credentials
+2026-04-21T06:58:49.179Z - Invalid or missing user fields
+2026-04-21T06:59:00.677Z - The new user's username already exists
+2026-04-21T06:59:14.384Z - Invalid email
+2026-04-21T06:59:19.180Z - Invalid email
+2026-04-21T06:59:27.291Z - Invalid or missing user fields
+2026-04-21T06:59:30.424Z - The new user's username already exists
+2026-04-21T06:59:33.062Z - The new user's email already exists
+2026-04-21T06:59:40.695Z - Missing token
+2026-04-21T07:01:57.005Z - Missing token
+2026-04-21T07:02:14.012Z - Missing token
+2026-04-21T07:02:28.062Z - Body/path ID mismatch
+2026-04-21T07:04:29.090Z - Missing token
+2026-04-21T07:04:32.176Z - Body/path ID mismatch
+2026-04-21T07:04:49.783Z - User not found
+2026-04-21T07:04:54.905Z - Forbidden access
+2026-04-21T07:05:26.738Z - Missing or invalid token
+2026-04-21T07:05:29.244Z - Missing or invalid token
+2026-04-21T07:05:37.448Z - Missing or invalid token
+2026-04-21T07:05:38.291Z - Missing or invalid token
+2026-04-21T07:05:44.125Z - Missing or invalid token
+2026-04-21T07:06:30.398Z - Missing or invalid token
+2026-04-21T07:08:40.600Z - Invalid email
+2026-04-21T07:08:43.480Z - Invalid email
+2026-04-21T07:08:46.193Z - Invalid or missing user fields
+2026-04-21T07:08:48.218Z - The new user's username already exists
+2026-04-21T07:08:50.505Z - The new user's email already exists
+2026-04-21T07:08:52.640Z - Missing token
+2026-04-21T07:09:03.655Z - Missing token
+2026-04-21T07:09:06.486Z - Missing token
+2026-04-21T07:09:09.033Z - Body/path ID mismatch
+2026-04-21T07:09:11.338Z - User not found
+2026-04-21T07:09:13.835Z - Forbidden access
+2026-04-21T07:09:51.073Z - Missing or invalid token
+2026-04-21T07:10:01.977Z - Missing or invalid token
+2026-04-21T07:10:04.172Z - Missing or invalid token
+2026-04-21T07:10:46.444Z - Missing or invalid token
+2026-04-21T07:10:49.159Z - Missing or invalid token
+2026-04-21T07:11:25.416Z - User is not an admin
+2026-04-21T07:11:32.043Z - Missing token
+2026-04-21T07:11:45.942Z - Attempt to delete an admin account
+2026-04-21T07:12:28.097Z - User is already inactive
+2026-04-21T07:12:31.433Z - Attempt to delete an admin account
+2026-04-21T07:12:45.831Z - User is not a trainer or an admin
+2026-04-21T07:13:07.419Z - User is not a trainer or an admin
+2026-04-21T07:13:26.574Z - Only users currently holding the player role can be promoted
+2026-04-21T07:13:43.306Z - User is not a trainer or an admin
+2026-04-21T07:14:22.326Z - Only users currently holding the player role can be promoted
+2026-04-21T07:15:42.759Z - Only users currently holding the player role can be promoted
+2026-04-21T07:15:44.817Z - User is not an admin
+2026-04-21T07:15:48.947Z - Only users currently holding the player role can be promoted
+2026-04-21T07:15:57.909Z - Invalid role
+2026-04-21T07:16:05.792Z - User is already active
+2026-04-21T07:16:14.321Z - User is not an admin
+2026-04-21T07:16:33.946Z - User is not an admin
+2026-04-21T07:16:35.372Z - User is not an admin
+2026-04-21T07:16:40.335Z - User not found
+2026-04-21T07:16:42.808Z - User is not an admin
+2026-04-21T07:16:45.638Z - User is not an admin
+2026-04-21T07:16:47.669Z - User not found
+2026-04-21T07:19:13.405Z - User is already in the team
+2026-04-21T07:20:05.824Z - User is already in the team
+2026-04-21T07:20:19.696Z - User is already in the team
+2026-04-21T07:21:58.190Z - User is not in the team
+2026-04-21T07:22:20.948Z - User is already in the team
+2026-04-21T07:22:25.155Z - User is not in the team
+2026-04-21T07:22:27.439Z - User is not in the team
+2026-04-21T07:22:40.504Z - User is already in the team
+2026-04-21T07:22:51.068Z - The new team's name already exists
+2026-04-21T07:24:17.487Z - Invalid or missing team fields
+2026-04-21T07:24:31.312Z - Invalid or missing team fields
+2026-04-21T07:24:39.700Z - Req.body does not match TeamDTO model
+2026-04-21T07:26:06.427Z - User is not a trainer
+2026-04-21T07:27:29.780Z - User is not a trainer
+2026-04-21T07:31:42.308Z - User is not a trainer
+2026-04-21T07:34:16.104Z - The field is already booked
+2026-04-21T07:35:41.742Z - The field is already booked
+2026-04-21T07:35:44.736Z - User is not an admin
+2026-04-21T07:36:04.906Z - Game not found
+2026-04-21T07:36:08.399Z - Game not found
+2026-04-21T07:36:11.695Z - User is not a referee, a trainer or an admin
+2026-04-21T07:36:19.977Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T07:36:43.280Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T07:36:44.323Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T07:36:46.553Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T07:37:37.205Z - The new referee does not have the referee role
+2026-04-21T07:39:14.142Z - Game not in started status
+2026-04-21T07:39:17.013Z - Disallowed status transition or missing prerequisites for starting
+2026-04-21T07:41:19.625Z - User is not an admin
+2026-04-21T07:41:23.760Z - Invalid or missing field fields
+2026-04-21T07:41:30.821Z - Invalid or missing field fields
+2026-04-21T07:41:40.927Z - User is not an admin
+2026-04-21T07:42:09.472Z - Req.body does not match FieldDTO model
+2026-04-21T07:44:09.922Z - Only users currently holding the player role can be promoted
+2026-04-21T07:48:55.074Z - The new team's name already exists
+2026-04-21T07:53:27.939Z - Missing or invalid token
+2026-04-21T07:54:33.413Z - The field is already booked
+2026-04-21T08:05:12.836Z - The field is already booked
+2026-04-21T08:05:49.523Z - New away team not found
+2026-04-21T08:06:44.593Z - The field is already booked
+2026-04-21T08:08:31.546Z - Disallowed status transition or missing prerequisites for starting

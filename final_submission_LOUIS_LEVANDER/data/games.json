@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "Football Game",
+    "status": "scheduled",
+    "home_team_id": 1,
+    "away_team_id": 3,
+    "home_score": 0,
+    "away_score": 0,
+    "referee_id": 5,
+    "field_id": 1,
+    "scheduled_date": "2026-04-29T09:28:34.654Z",
+    "created_at": "2026-04-22T09:28:34.389Z",
+    "updated_at": "2026-04-22T09:28:34.389Z"
+  },
+  {
+    "id": 1,
+    "name": "Basketball Game",
+    "status": "scheduled",
+    "home_team_id": 2,
+    "away_team_id": 4,
+    "home_score": 3,
+    "away_score": 1,
+    "referee_id": 5,
+    "field_id": 2,
+    "scheduled_date": "2026-04-15T09:28:34.654Z",
+    "created_at": "2026-04-22T09:28:34.389Z",
+    "updated_at": "2026-04-22T09:28:34.389Z"
+  }
+]
